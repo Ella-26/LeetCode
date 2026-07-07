@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/Ella-26/LeetCode/tree/master/1534-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Ella-26/LeetCode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
