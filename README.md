@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Ella-26/LeetCode/tree/master/1534-count-good-triplets) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Ella-26/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
