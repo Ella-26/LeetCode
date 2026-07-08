@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Ella-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Ella-26/LeetCode/tree/master/2235-add-two-integers) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Ella-26/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Tree
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Ella-26/LeetCode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ella-26/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
