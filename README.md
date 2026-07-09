@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ella-26/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Ella-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Ella-26/LeetCode/tree/master/2235-add-two-integers) |
