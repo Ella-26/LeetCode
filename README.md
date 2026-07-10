@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ella-26/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Ella-26/LeetCode/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ella-26/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Ella-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ella-26/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ella-26/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
