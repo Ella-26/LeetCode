@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Ella-26/LeetCode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Ella-26/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Ella-26/LeetCode/tree/master/1534-count-good-triplets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/Ella-26/LeetCode/tree/master/0867-transpose-matrix) |
 ## String
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ella-26/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ella-26/LeetCode/tree/master/0326-power-of-three) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Ella-26/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
