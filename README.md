@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Ella-26/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Ella-26/LeetCode/tree/master/1534-count-good-triplets) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ella-26/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ella-26/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Enumeration
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/Ella-26/LeetCode/tree/master/0709-to-lower-case) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ella-26/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ella-26/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Recursion
 |  |
 | ------- |
