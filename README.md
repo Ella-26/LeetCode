@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ella-26/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ella-26/LeetCode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Ella-26/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ella-26/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ella-26/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
