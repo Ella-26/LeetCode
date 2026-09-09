@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ella-26/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ella-26/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ella-26/LeetCode/tree/master/0015-3sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ella-26/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ella-26/LeetCode/tree/master/0867-transpose-matrix) |
@@ -95,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ella-26/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ella-26/LeetCode/tree/master/0015-3sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ella-26/LeetCode/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ella-26/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
