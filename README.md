@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ella-26/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ella-26/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1512-number-of-good-pairs](https://github.com/Ella-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ella-26/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0709-to-lower-case](https://github.com/Ella-26/LeetCode/tree/master/0709-to-lower-case) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ella-26/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ella-26/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ella-26/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ella-26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ella-26/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
