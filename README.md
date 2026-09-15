@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ella-26/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ella-26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ella-26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ella-26/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ella-26/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Ella-26/LeetCode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Ella-26/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ella-26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ella-26/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ella-26/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ella-26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ella-26/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ella-26/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ella-26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ella-26/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
