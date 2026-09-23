@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ella-26/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ella-26/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ella-26/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ella-26/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ella-26/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ella-26/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ella-26/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ella-26/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
