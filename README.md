@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ella-26/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ella-26/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ella-26/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ella-26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
