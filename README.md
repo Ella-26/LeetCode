@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ella-26/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ella-26/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Ella-26/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Ella-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/Ella-26/LeetCode/tree/master/0709-to-lower-case) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ella-26/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ella-26/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ella-26/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Ella-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -266,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ella-26/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Ella-26/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Ella-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
