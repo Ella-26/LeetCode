@@ -1,0 +1,20 @@
+class Solution:
+    def partition(self, s: str) -> list[list[str]]:
+        n = len(s)
+        ans = []
+        path = []
+
+        def dfs(i):
+            if i == n:
+                ans.append(path.copy())
+                return
+            for j in range(i, n):
+                t = s[i : j + 1]
+                if t == t[::-1]:  # 是回文再放进path
+                    path.append(t)
+                    dfs(j + 1)  # 其实是在更新i
+                    path.pop()
+
+        dfs(0)
+        return ans
+
