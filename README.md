@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ella-26/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Ella-26/LeetCode/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/Ella-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ella-26/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ella-26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Ella-26/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ella-26/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ella-26/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ella-26/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ella-26/LeetCode/tree/master/0162-find-peak-element) |
@@ -263,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ella-26/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Ella-26/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
