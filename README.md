@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ella-26/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ella-26/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ella-26/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Ella-26/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ella-26/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Ella-26/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/Ella-26/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ella-26/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ella-26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/Ella-26/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Ella-26/LeetCode/tree/master/0198-house-robber) |
 ## Stack
 |  |
 | ------- |
