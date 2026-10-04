@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ella-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ella-26/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ella-26/LeetCode/tree/master/0263-ugly-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ella-26/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ella-26/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Ella-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ella-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ella-26/LeetCode/tree/master/0198-house-robber) |
 ## Stack
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ella-26/LeetCode/tree/master/0051-n-queens) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ella-26/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
