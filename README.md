@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ella-26/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ella-26/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ella-26/LeetCode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Ella-26/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ella-26/LeetCode/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ella-26/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Ella-26/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ella-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ella-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ella-26/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Ella-26/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ella-26/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ella-26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ella-26/LeetCode/tree/master/0494-target-sum) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ella-26/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ella-26/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Ella-26/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ella-26/LeetCode/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ella-26/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Ella-26/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ella-26/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ella-26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ella-26/LeetCode/tree/master/0494-target-sum) |
@@ -322,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Ella-26/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ella-26/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
